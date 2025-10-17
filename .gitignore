@@ -55,3 +55,9 @@ public/scripts/extensions/third-party
 .env
 /StartDev.bat
 
+# Video Transcriber
+api_keys.json
+!api_keys.json.example
+__pycache__/
+*.pyc
+*.pyo
